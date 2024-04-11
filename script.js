@@ -1,5 +1,4 @@
-//your JS code here. If required.
-const loginForm = document.getElementById("loginForm");
+ const loginForm = document.getElementById("loginForm");
 
         loginForm.addEventListener("submit", function(event) {
             event.preventDefault(); // Prevents the form from submitting and reloading the page
